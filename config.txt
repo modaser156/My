@@ -1,6 +1,6 @@
 owner=431855325012951050
-prefix=;p
-game=Break | ;play By lmpy
+prefix=M 
+game=By AlMpy
 stayinchannel=true
 songinstatus=false
-token=NTQ0ODk4OTA4NjU3Mjg3MTgz.D0TJxw.WH9FkvA0U4P7c_g-TZwMhcjOv8s
+token=NTQ1MDI2Nzc2MjYzNDI2MDY4.D0Trog.gRlLrqqYBT-z69xuZqAhPtPOT0k
