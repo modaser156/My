@@ -1,6 +1,6 @@
 owner=431855325012951050
-prefix=M 
+prefix=' 
 game=By AlMpy
 stayinchannel=true
 songinstatus=false
-token=NTQ1MDI2Nzc2MjYzNDI2MDY4.D0Trog.gRlLrqqYBT-z69xuZqAhPtPOT0k
+token=NTQ1MDMzMTc3ODA3MzIzMTQ4.D0TxcA.oqcAHE6yMLDfQD-op4PUAxkkCxs
